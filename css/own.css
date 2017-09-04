@@ -1,0 +1,12 @@
+a {
+    margin-right: 20px;
+}
+
+.navbar {
+    text-align: center;
+}
+
+.option-item {
+    text-decoration: none;
+    cursor: pointer;
+}
